@@ -29,11 +29,11 @@ section, summary, time, mark, audio, video {
 		color:  #49bf9d;
 	}
 
-	#wordGuess, #wordGuess2, #crysCol, #crysCol2, #triviaGame, #triviaGame2{
+	#wordGuess, #wordGuess2, #crysCol, #crysCol2, #triviaGame, #triviaGame2, #gifApp, #gifApp2, #aperi, #aperi2{
 		margin-left: 0.5em;
 	}
 
-	#wordGuess:link, #wordGuess2:link, #crysCol:link, #crysCol2:link, #triviaGame:link, #triviaGame2:link{
+	#wordGuess:link, #wordGuess2:link, #crysCol:link, #crysCol2:link, #triviaGame:link, #triviaGame2:link, #gifApp:link, #gifApp2:link, #aperi:link, #aperi2:link{
 		text-decoration: none;
 	}
 
