@@ -25,20 +25,24 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
-	#wordGuess:hover, .crysCol:hover, .triviaGame:hover, .gifApp:hover, .aperi:hover{
+	#wordGuess:hover, #crysCol:hover, #triviaGame:hover, #gifApp:hover, #aperi:hover, #friendFinder:hover, #movieStarz:hover, #liri2:hover, #bamazon2:hover{
 		color:  #49bf9d;
 	}
 
-	#wordGuess, #wordGuess2, #crysCol, #crysCol2, #triviaGame, #triviaGame2, #gifApp, #gifApp2, #aperi, #aperi2{
+	#wordGuess, #wordGuess2, #crysCol, #crysCol2, #triviaGame, #triviaGame2, #gifApp, #gifApp2, #aperi, #aperi2, #friendFinder, #friendFinder2, #movieStarz, #movieStarz2, #liri2, #bamazon2 {
 		margin-left: 0.5em;
 	}
 
-	#wordGuess:link, #wordGuess2:link, #crysCol:link, #crysCol2:link, #triviaGame:link, #triviaGame2:link, #gifApp:link, #gifApp2:link, #aperi:link, #aperi2:link{
+	#wordGuess:link, #wordGuess2:link, #crysCol:link, #crysCol2:link, #triviaGame:link, #triviaGame2:link, #gifApp:link, #gifApp2:link, #aperi:link, #aperi2:link, #friendFinder:link, #friendFinder2:link, #movieStarz:link, #movieStarz2:link, #liri2:link, #bamazon2:link{
 		text-decoration: none;
 	}
 
 	#aboutMe{
 		text-align: justify;
+	}
+
+	#others{
+		font-size: 1.5em;
 	}
 
 article, aside, details, figcaption, figure,
